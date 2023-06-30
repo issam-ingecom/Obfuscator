@@ -2,10 +2,12 @@
 
 ## **Instalación**
 
-1. Abre una interfaz de línea de comandos (CLI) y navega hasta la carpeta del proyecto.
+1. Instala Node
+
+2. Abre una interfaz de línea de comandos (CLI) y navega hasta la carpeta del proyecto.
     `npm install`
     
-2. instala la herramienta Gulp globalmente 
+3. instala la herramienta Gulp globalmente 
 `npm install -g gulp-cli`
 
 ## **Uso**
